@@ -1,0 +1,15 @@
+C:\Users\Nathan\Documents\Visual Studio 2013\Projects\App4\App4\bin\Debug\ReverseMap\resources.pri
+C:\Users\Nathan\Documents\Visual Studio 2013\Projects\App4\App4\bin\Debug\AppxManifest.xml
+C:\Users\Nathan\Documents\Visual Studio 2013\Projects\App4\App4\bin\Debug\Map-app.build.appxrecipe
+C:\Users\Nathan\Documents\Visual Studio 2013\Projects\App4\App4\bld\Debug\priconfig.xml
+C:\Users\Nathan\Documents\Visual Studio 2013\Projects\App4\App4\bld\Debug\priconfig.xml.intermediate
+C:\Users\Nathan\Documents\Visual Studio 2013\Projects\App4\App4\bld\Debug\layout.resfiles
+C:\Users\Nathan\Documents\Visual Studio 2013\Projects\App4\App4\bld\Debug\layout.resfiles.intermediate
+C:\Users\Nathan\Documents\Visual Studio 2013\Projects\App4\App4\bld\Debug\resources.resfiles
+C:\Users\Nathan\Documents\Visual Studio 2013\Projects\App4\App4\bld\Debug\resources.resfiles.intermediate
+C:\Users\Nathan\Documents\Visual Studio 2013\Projects\App4\App4\bld\Debug\pri.resfiles
+C:\Users\Nathan\Documents\Visual Studio 2013\Projects\App4\App4\bld\Debug\pri.resfiles.intermediate
+C:\Users\Nathan\Documents\Visual Studio 2013\Projects\App4\App4\bld\Debug\qualifiers.txt
+C:\Users\Nathan\Documents\Visual Studio 2013\Projects\App4\App4\bld\Debug\qualifiers.txt.intermediate
+C:\Users\Nathan\Documents\Visual Studio 2013\Projects\App4\App4\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Nathan\Documents\Visual Studio 2013\Projects\App4\App4\bld\Debug\ProjectArchitectures.txt

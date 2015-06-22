@@ -1,0 +1,116 @@
+﻿.map section {
+	margin: auto 120px;
+}
+
+.phone .map .page-section {
+	margin: auto 24px;
+}
+
+.phone .map .page-header .titlearea {
+	-ms-grid-column: 1;
+	margin-top: 37px;
+	margin-left: 24px;
+	font-size: 28pt;
+	width: calc(100vw - 20px);
+}
+
+.phone .map .back-button {
+	display: none;
+}
+
+.fragment {
+	-ms-grid-columns: 1fr;
+	-ms-grid-rows: 128px 1fr;
+	display: -ms-grid;
+	height: 100%;
+	width: 100%;
+}
+
+	.fragment section[role=main] {
+		-ms-grid-row: 2;
+		height: 100%;
+	}
+
+html, body, #map {
+    height: 92%;
+}
+
+html, footer {
+    height: 8%;
+}
+
+.controlbutton {
+    margin: 2% 2% 2% 2%;
+    height: 96%;
+    width: 46%;
+}
+.buttonrow{
+    text-align:center;
+}
+.popupEdit{
+    color: white;
+    border: 2px solid white;
+    vertical-align: baseline;
+    position:relative;
+    font-size: 10pt;
+    min-height: 10px;
+    min-width: 30px;
+    padding: 2px 5px ;
+}
+.popupDelete{
+    color: white;
+    border: 2px solid white;
+    position:relative;
+    vertical-align: baseline;
+    font-size: 10pt;
+    min-height: 10px;
+    min-width: 30px;
+    padding: 2px 5px;
+}
+
+
+input[type=radio], input[type=checkbox] {
+    margin: 5px 0px 5px 0px;
+    vertical-align: middle;
+}
+
+
+input[type=checkbox] {
+    color: black;
+}
+
+
+.leaflet-bar a, .leaflet-bar a:hover {
+    background-color: #000;
+    border-bottom: 1px solid #ccc;
+    width: 26px;
+    height: 26px;
+    line-height: 26px;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+
+
+.leaflet-control-layers {
+    box-shadow: 0px 1px 5px rgba(0,0,0,0.4);
+    background: #000;
+    border-radius: 5px;
+}
+
+
+.leaflet-control-layers-expanded {
+    padding: 6px 10px 6px 6px;
+    color: #fff;
+    background: #000;
+    font-size: 14pt;
+}
+
+
+.leaflet-popup-content-wrapper, .leaflet-popup-tip {
+    background: black;
+    color: white;
+    font-size: 14pt;
+    box-shadow: 0px 3px 14px rgba(0,0,0,0.4);
+}

@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>homePage</title>
+
+    <!-- WinJS references -->
+    <script src="//Microsoft.Phone.WinJS.2.1/js/base.js"></script>
+    <script src="//Microsoft.Phone.WinJS.2.1/js/ui.js"></script>
+    <link href="/css/default.css" rel="stylesheet" />
+    <link href="/pages/home/home.css" rel="stylesheet" />
+    <script src="/pages/home/home.js"></script>
+</head>
+<body>
+    <!-- The content that will be loaded and displayed. -->
+    <div class="fragment homepage">
+        <header aria-label="Header content" role="banner">
+            <h1 class="titlearea win-type-ellipsis">
+                <span class="pagetitle">Mize's Map App</span>
+            </h1>
+        </header>
+        <section aria-label="Main content" role="main">
+            <p id="status"></p>
+            <form id="login">
+                Username: <input type="text" name="username" /><br />
+                Password: <input type="password" name="password" /><br />
+                <input type="submit" value="Login">
+            </form>
+            <button id="newlogin">Create Account</button>
+        </section>
+    </div>
+</body>
+</html>

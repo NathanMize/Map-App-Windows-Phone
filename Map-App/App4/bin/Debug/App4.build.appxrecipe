@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LAPTOP-NATHAN</Machine>
+    <WindowsUser>Nathan</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>4a75cc40-4386-4a5d-92e3-4f4a85678488</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Nathan\documents\visual studio 2013\Projects\App4\App4\bld\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Nathan\documents\visual studio 2013\Projects\App4\App4\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Nathan\documents\visual studio 2013\Projects\App4\App4\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nathan\documents\visual studio 2013\Projects\App4\App4\css\ui-themed.css">
+      <PackagePath>css\ui-themed.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nathan\documents\visual studio 2013\Projects\App4\App4\css\ui-themed.theme-dark.css">
+      <PackagePath>css\ui-themed.theme-dark.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nathan\documents\visual studio 2013\Projects\App4\App4\css\ui-themed.theme-light.css">
+      <PackagePath>css\ui-themed.theme-light.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nathan\documents\visual studio 2013\Projects\App4\App4\pages\editMarker\editMarker.css">
+      <PackagePath>pages\editMarker\editMarker.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nathan\documents\visual studio 2013\Projects\App4\App4\pages\home\home.css">
+      <PackagePath>pages\home\home.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nathan\documents\visual studio 2013\Projects\App4\App4\pages\map\leaflet.css">
+      <PackagePath>pages\map\leaflet.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nathan\documents\visual studio 2013\Projects\App4\App4\pages\map\map.css">
+      <PackagePath>pages\map\map.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nathan\documents\visual studio 2013\Projects\App4\App4\pages\newAccount\newAccount.css">
+      <PackagePath>pages\newAccount\newAccount.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nathan\documents\visual studio 2013\Projects\App4\App4\pages\newCat\newCat.css">
+      <PackagePath>pages\newCat\newCat.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nathan\documents\visual studio 2013\Projects\App4\App4\pages\newMarker\newMarker.css">
+      <PackagePath>pages\newMarker\newMarker.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nathan\documents\visual studio 2013\Projects\App4\App4\images\Square150x150Logo.scale-240.png">
+      <PackagePath>images\Square150x150Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nathan\documents\visual studio 2013\Projects\App4\App4\images\Square44x44Logo.scale-240.png">
+      <PackagePath>images\Square44x44Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nathan\documents\visual studio 2013\Projects\App4\App4\images\Wide310x150Logo.scale-240.png">
+      <PackagePath>images\Wide310x150Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nathan\documents\visual studio 2013\Projects\App4\App4\images\Square71x71Logo.scale-240.png">
+      <PackagePath>images\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nathan\documents\visual studio 2013\Projects\App4\App4\images\SplashScreen.scale-240.png">
+      <PackagePath>images\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nathan\documents\visual studio 2013\Projects\App4\App4\images\StoreLogo.scale-240.png">
+      <PackagePath>images\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nathan\documents\visual studio 2013\Projects\App4\App4\pages\home\images\layers-2x.png">
+      <PackagePath>pages\home\images\layers-2x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nathan\documents\visual studio 2013\Projects\App4\App4\pages\home\images\layers.png">
+      <PackagePath>pages\home\images\layers.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nathan\documents\visual studio 2013\Projects\App4\App4\pages\home\images\marker-icon-2x.png">
+      <PackagePath>pages\home\images\marker-icon-2x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nathan\documents\visual studio 2013\Projects\App4\App4\pages\home\images\marker-icon.png">
+      <PackagePath>pages\home\images\marker-icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nathan\documents\visual studio 2013\Projects\App4\App4\pages\home\images\marker-shadow.png">
+      <PackagePath>pages\home\images\marker-shadow.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nathan\documents\visual studio 2013\Projects\App4\App4\pages\map\images\layers-2x.png">
+      <PackagePath>pages\map\images\layers-2x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nathan\documents\visual studio 2013\Projects\App4\App4\pages\map\images\layers.png">
+      <PackagePath>pages\map\images\layers.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nathan\documents\visual studio 2013\Projects\App4\App4\pages\map\images\marker-icon-2x.png">
+      <PackagePath>pages\map\images\marker-icon-2x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nathan\documents\visual studio 2013\Projects\App4\App4\pages\map\images\marker-icon.png">
+      <PackagePath>pages\map\images\marker-icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nathan\documents\visual studio 2013\Projects\App4\App4\pages\map\images\marker-shadow.png">
+      <PackagePath>pages\map\images\marker-shadow.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nathan\documents\visual studio 2013\Projects\App4\App4\jquery-2.1.1.min.js">
+      <PackagePath>jquery-2.1.1.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nathan\documents\visual studio 2013\Projects\App4\App4\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nathan\documents\visual studio 2013\Projects\App4\App4\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nathan\documents\visual studio 2013\Projects\App4\App4\pages\editMarker\editMarker.js">
+      <PackagePath>pages\editMarker\editMarker.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nathan\documents\visual studio 2013\Projects\App4\App4\pages\home\home.js">
+      <PackagePath>pages\home\home.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nathan\documents\visual studio 2013\Projects\App4\App4\pages\map\leaflet-src.js">
+      <PackagePath>pages\map\leaflet-src.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nathan\documents\visual studio 2013\Projects\App4\App4\pages\map\leaflet.js">
+      <PackagePath>pages\map\leaflet.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nathan\documents\visual studio 2013\Projects\App4\App4\pages\map\map.js">
+      <PackagePath>pages\map\map.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nathan\documents\visual studio 2013\Projects\App4\App4\pages\newAccount\newAccount.js">
+      <PackagePath>pages\newAccount\newAccount.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nathan\documents\visual studio 2013\Projects\App4\App4\pages\newCat\newCat.js">
+      <PackagePath>pages\newCat\newCat.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nathan\documents\visual studio 2013\Projects\App4\App4\pages\newMarker\newMarker.js">
+      <PackagePath>pages\newMarker\newMarker.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nathan\documents\visual studio 2013\Projects\App4\App4\pages\editMarker\editMarker.html">
+      <PackagePath>pages\editMarker\editMarker.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nathan\documents\visual studio 2013\Projects\App4\App4\pages\home\home.html">
+      <PackagePath>pages\home\home.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nathan\documents\visual studio 2013\Projects\App4\App4\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nathan\documents\visual studio 2013\Projects\App4\App4\pages\map\map.html">
+      <PackagePath>pages\map\map.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nathan\documents\visual studio 2013\Projects\App4\App4\pages\newAccount\newAccount.html">
+      <PackagePath>pages\newAccount\newAccount.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nathan\documents\visual studio 2013\Projects\App4\App4\pages\newCat\newCat.html">
+      <PackagePath>pages\newCat\newCat.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nathan\documents\visual studio 2013\Projects\App4\App4\pages\newMarker\newMarker.html">
+      <PackagePath>pages\newMarker\newMarker.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nathan\documents\visual studio 2013\Projects\App4\App4\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Phone.WinJS.2.1\1.0\">
+      <Name>Microsoft.Phone.WinJS.2.1</Name>
+      <Version>1.0.9651.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.Phone.WinJS.2.1, MinVersion=1.0.9651.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Phone.WinJS.2.1\1.0\Microsoft.Phone.WinJS.2.1.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

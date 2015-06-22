@@ -1,0 +1,15 @@
+c:\users\nathan\documents\visual studio 2013\Projects\App4\App4\bin\Debug\ReverseMap\resources.pri
+c:\users\nathan\documents\visual studio 2013\Projects\App4\App4\bin\Debug\AppxManifest.xml
+c:\users\nathan\documents\visual studio 2013\Projects\App4\App4\bin\Debug\App4.build.appxrecipe
+c:\users\nathan\documents\visual studio 2013\Projects\App4\App4\bld\Debug\priconfig.xml
+c:\users\nathan\documents\visual studio 2013\Projects\App4\App4\bld\Debug\priconfig.xml.intermediate
+c:\users\nathan\documents\visual studio 2013\Projects\App4\App4\bld\Debug\layout.resfiles
+c:\users\nathan\documents\visual studio 2013\Projects\App4\App4\bld\Debug\layout.resfiles.intermediate
+c:\users\nathan\documents\visual studio 2013\Projects\App4\App4\bld\Debug\resources.resfiles
+c:\users\nathan\documents\visual studio 2013\Projects\App4\App4\bld\Debug\resources.resfiles.intermediate
+c:\users\nathan\documents\visual studio 2013\Projects\App4\App4\bld\Debug\pri.resfiles
+c:\users\nathan\documents\visual studio 2013\Projects\App4\App4\bld\Debug\pri.resfiles.intermediate
+c:\users\nathan\documents\visual studio 2013\Projects\App4\App4\bld\Debug\qualifiers.txt
+c:\users\nathan\documents\visual studio 2013\Projects\App4\App4\bld\Debug\qualifiers.txt.intermediate
+c:\users\nathan\documents\visual studio 2013\Projects\App4\App4\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\nathan\documents\visual studio 2013\Projects\App4\App4\bld\Debug\ProjectArchitectures.txt

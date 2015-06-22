@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ReferenceCachePath>C:\Users\Nathan\AppData\Local\Temp\App4_refcache</ReferenceCachePath>
+    <ShowAllFiles>true</ShowAllFiles>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebuggerFlavor>WindowsPhoneEmulatorDebugger</DebuggerFlavor>
+    <WindowsPhoneEmulatorID>20DCA81D-A315-40BC-9B83-B6A01D31DBC6;Emulator 8.1 1080P 6 inch</WindowsPhoneEmulatorID>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>newMarker</title>
+
+    <link href="newMarker.css" rel="stylesheet" />
+    <script src="newMarker.js"></script>
+</head>
+<body>
+    <div class="newMarker fragment">
+        <header class="page-header" aria-label="Header content" role="banner">
+            <button class="back-button" data-win-control="WinJS.UI.BackButton"></button>
+            <h1 class="titlearea win-type-ellipsis">
+                <span class="pagetitle">Add Marker</span>
+            </h1>
+        </header>
+        <section class="page-section" aria-label="Main content" role="main">
+            <form id="newMarker">
+                Latitude: <input type="text" name="lat" id="lat"/>
+                Longitude: <input type="text" name="lon" id="lon"/>
+                Popup Text: <input type="text" name="popup" id="popup"/>
+                Category: <a id="newCategory">add</a>
+                <select id="catList" name="category"></select>
+                <input type="submit" value="submit"/>
+
+            </form>
+        </section>
+    </div>
+</body>
+</html>
